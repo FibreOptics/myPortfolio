@@ -1,0 +1,20 @@
+.footer {
+  margin-top: 2rem;
+  border-radius: 5px 5px 0 0;
+  background: linear-gradient(45deg, rgba(#d1b494, 0.9), rgba(#c2a58a, 0.9));
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.content {
+  flex: 1;
+  padding: 3.5rem 1.5rem;
+  margin: 0 22rem;
+  background: linear-gradient(45deg, rgba(#e1b382, 0.85), rgba(#c89666, 0.85));
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  //min-height: 10rem;
+}

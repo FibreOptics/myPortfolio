@@ -1,0 +1,28 @@
+body {
+  background-image: url(../assets/img/starry.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+  font-family: "Varela Round", sans-serif;
+  color: #12343b;
+  font-size: 1.2;
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.contentbox {
+  margin: 0rem 22rem 1rem;
+  background: linear-gradient(45deg, rgba(#e1b382, 0.9), rgba(#c89666, 0.9));
+  //border: 1px solid rgb(223, 24, 189);
+}

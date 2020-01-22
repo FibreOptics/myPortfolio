@@ -1,0 +1,15 @@
+.profil {
+  padding: 1.5rem;
+  border-radius: 5px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  img {
+    height: 10rem;
+    border-radius: 5px;
+  }
+  & > * {
+    flex: 0 0 91%;
+    margin: auto;
+  }
+}
